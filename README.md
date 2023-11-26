@@ -12,7 +12,7 @@ This repository hosts a PowerShell script designed to streamline the process of 
 ```powershell
 
 # Example usage:
-# powershell ExportSchema.ps1 "SERVERNAME" "DATABASE" "C:\<YourOutputPath>"
+# powershell export-schema.ps1 "SERVERNAME" "DATABASE" "C:\<YourOutputPath>"
 ```
 
 
